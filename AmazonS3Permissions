@@ -1,0 +1,9 @@
+<— Sample policy -->
+<CORSConfiguration>
+    <CORSRule>
+        <AllowedOrigin>*</AllowedOrigin>
+        <AllowedMethod>GET</AllowedMethods>
+        <MaxAgeSeconds>3000</MaxAgeSeconds>
+        <AllowedHeader>Authorization</AllAllowedHeaders>
+    <CORSRule>
+</CORSConfiguration>
